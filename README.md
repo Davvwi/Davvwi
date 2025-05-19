@@ -1,4 +1,4 @@
-# 👨‍💻 Davi Souza (Davvwi)  
+# 👨‍💻 Davi Souza  
 
 **`Desenvolvedor Web`**  
 
