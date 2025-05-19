@@ -1,8 +1,8 @@
-# 👨‍💻 Davi William (Davvwi)  
+# 👨‍💻 Davi Souza (Davvwi)  
 
-**`Desenvolvedor FullStack | Python & JavaScript`**  
+**`Desenvolvedor Web`**  
 
-Olá! Sou Davi William, um entusiasta da tecnologia com foco em desenvolvimento **FullStack**. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e trabalho com tecnologias como **Python, JavaScript, React e Node.js**. Adoro compartilhar conhecimento e contribuir para projetos open-source.  
+Olá! Sou Davi Souza, um entusiasta da tecnologia com foco em desenvolvimento **FullStack**. Atualmente, estudo **Desenvolvimento de Sistemas** e trabalho com tecnologias como **JavaScript, React e Node.js**. Amo compartilhar conhecimento e contribuir para projetos.  
 
 🔗 **Conecte-se comigo:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-souza-075540309/)  
@@ -20,7 +20,7 @@ Olá! Sou Davi William, um entusiasta da tecnologia com foco em desenvolvimento 
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
 #### **Back-end & Banco de Dados**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
@@ -42,10 +42,11 @@ Olá! Sou Davi William, um entusiasta da tecnologia com foco em desenvolvimento 
 
 ```python
 def sobre_mim():
-    nome = "Davi William"
-    idade = "20 anos"
+    nome = "Davi Souza"
+    idade = "19 anos"
+    cristo = "Vive em mim"
     stack = "FullStack Developer"
-    hobbies = ["Código", "Música", "Games"]
+    hobbies = ["Código", "Games"]
     objetivo = "Construir soluções inovadoras e aprender sempre!"
     
     return f"{nome} | {stack} 🚀"
