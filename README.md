@@ -33,7 +33,7 @@ Olá! Sou Davi Souza, um entusiasta da tecnologia com foco em desenvolvimento **
 
 ### 📈 GitHub Stats  
 
-| ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=Davvwi&show_icons=true&theme=tokyonight&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Davvwi&theme=tokyonight&layout=compact&langs_count=6) |
+| ![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=EuDavidev&show_icons=true&theme=tokyonight&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=EuDavidev&theme=tokyonight&layout=compact&langs_count=6) |
 |---------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|  
 
 ---
