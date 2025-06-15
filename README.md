@@ -38,7 +38,7 @@ Olá! Sou Davi Souza, um entusiasta da tecnologia com foco em desenvolvimento **
 
 ---
 
-### 📌 **"Sobre Mim" Interativo**  
+### 📌 **"Sobre Mim"**  
 
 ```python
 def sobre_mim():
